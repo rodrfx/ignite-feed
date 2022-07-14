@@ -20,11 +20,11 @@ const posts = [
 			{
 				type: 'paragraph',
 				content:
-					'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+					'Acabei de subir mais um projeto. É um projeto que fiz no evento da Rocketseat. O nome do projeto é NLW Return 🚀',
 			},
 			{
 				type: 'link',
-				content: 'jane.design/doctorcare',
+				content: 'https://github.com/rodrfx/NLW-Return',
 			},
 		],
 		publishedAt: new Date('2022-07-11 22:00:00'),
@@ -44,7 +44,7 @@ const posts = [
 			{
 				type: 'paragraph',
 				content:
-					'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+					'Acabei de subir mais um projeto. É um projeto que fiz no evento da Rocketseat. O nome do projeto é doctorcare 🚀',
 			},
 			{
 				type: 'link',
