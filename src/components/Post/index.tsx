@@ -97,7 +97,10 @@ export const Post = ({ author, publishedAt, content }: PostProps) => {
 				<p>{content[0].content}</p>
 				<p>{content[1].content}</p>
 				<p>
-					👉 <a href="#"> {content[2].content}</a>
+					👉{' '}
+					<a href={content[2].content} target="_blank">
+						{content[2].content}
+					</a>
 				</p>
 			</Content>
 
